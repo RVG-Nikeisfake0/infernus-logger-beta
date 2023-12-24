@@ -51,7 +51,8 @@
 2. Extract zip.
 3. Run `install_python.bat` if you don't have python installed yet.
 4. Run the builder by double clicking the `build.bat` file.
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`.
+5. Press "Yes" when a UAC Window from Installer.exe pops up.
+6. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`.
 
 ## Warning
 
